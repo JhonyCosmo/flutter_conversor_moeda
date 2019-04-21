@@ -10,5 +10,5 @@ Utilizamos a api da HG Brasil para obtermos a cotação em tempo real das moedas
 
 Referencias:
 
-- [Api Cotações](https://api.hgbrasil.com/finance)
+- [Api Financeira HgBrasil](https://console.hgbrasil.com/documentation/finance)
 
